@@ -1,0 +1,14 @@
+body{
+    background-image: url("bg-portal.jpg");
+}
+#text{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    line-height: 1.6;
+}
+#clue{
+    display: none;
+}
